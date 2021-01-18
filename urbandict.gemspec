@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.authors = ['Eli Foster']
   s.name = 'urbandict'
   s.summary = 'An interface to the Urban Dictionary API'
-  s.version = '1.0.2'
+  s.version = '1.1.0'
   s.license = 'MIT'
   s.description = 'An interface to the Urban Dictionary API'
   s.email = 'elifosterwy@gmail.com'
