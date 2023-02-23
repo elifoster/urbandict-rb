@@ -5,7 +5,7 @@ require_relative 'slang'
 module UrbanDictionary
   module_function
 
-  URL = 'http://api.urbandictionary.com/v0/define'
+  URL = 'https://api.urbandictionary.com/v0/define'
 
   # Gets the definitions for the word.
   # @param word [String] The word to define.
